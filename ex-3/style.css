@@ -1,0 +1,75 @@
+body{
+	background-image: url(https://cdn.pixabay.com/photo/2016/04/12/22/35/watercolour-1325656__340.jpg);
+}
+#imgdiv {
+    width: 200px;
+    height: 100px;
+    
+   
+}
+.my-slide{
+	width: 500px;
+	height: 300px;
+}
+
+nav {
+    background-color: lightgray;
+    display: flex;
+    height: 80px;
+    border-radius: 10px;
+}
+
+button{
+	border-radius: 20px;
+}
+
+
+
+ul li {
+    display: inline;
+    list-style-type: none;
+    text-align: center;
+    padding: 20px;
+}
+
+#search {
+    width: 50%;
+    height: 30px;
+    position: center;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+section {
+    width: 100%;
+    padding: 50px
+}
+
+#m1 {
+    height: 200px;
+    border-image: 50px;
+    padding: 30px;
+}
+
+#m2 {
+    height: 200px;
+    border-image: 50px;
+    padding: 30px;
+}
+
+#m3 {
+    height: 200px;
+    border-image: 50px;
+    padding: 30px;
+}
+
+
+}
+#img-div{
+
+}
+#list{
+	display: flex;
+	justify-content: space-around;
+}
